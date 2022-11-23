@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "clclfl:block/cobalt_block_side",
+    "north": "clclfl:block/cobalt_block_side",
+    "south": "clclfl:block/cobalt_block_side",
+    "east": "clclfl:block/cobalt_block_side",
+    "west": "clclfl:block/cobalt_block_side",
+    "up": "clclfl:block/cobalt_block_top",
+    "down": "clclfl:block/cobalt_block_bottom"
+  }
+}

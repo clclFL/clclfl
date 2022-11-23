@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    "A#A"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "clclfl:cobalt_ingot"
+    },
+    "A": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "clclfl:cobalt_sharp_edge"
+  }
+}

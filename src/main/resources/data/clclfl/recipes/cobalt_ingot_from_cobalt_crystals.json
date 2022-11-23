@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "tag": "clclfl:gems/cobalt_recipes_materials"
+    }
+  },
+  "result": {
+    "item": "clclfl:cobalt_ingot"
+  }
+}

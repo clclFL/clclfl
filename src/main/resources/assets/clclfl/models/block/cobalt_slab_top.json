@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "clclfl:block/cobalt_block_native",
+    "top": "clclfl:block/cobalt_block_native",
+    "side": "clclfl:block/cobalt_block_native"
+  }
+}

@@ -1,0 +1,41 @@
+modLoader="javafml" #mandatory
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+[[mods]] #mandatory
+
+modId="clclfl" #mandatory
+
+version="${file.jarVersion}"
+displayName="clclfl"
+
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+logoFile="IconCobaltIngot.png" #optional
+credits="Thanks for forge guys and anyone who support this project."
+authors="§d§lclclFL"
+description='''
+Hello! This a Minecraft 1.16.5 Forge Mod mainly created by clclFL and PineClone, in order to achieve one dream that out of reach. I will paste my friend Blu3Fat's Website on this page, If you really enjoy it you could check his website for more information about it, and if you got bug reports about my mod, that website may do you a favor.
+§d[IF YOU SEE THIS LINE, THIS MOD IS STILL IN TESTING]§r
+§aps:Since I find it difficult to depart Minecraft client side and server side, so there might be bugs caused by those uncorrect seperating works ¯\_(' 'ノ)_/¯.§r
+'''
+displayURL="https://www.blu3fat.club/program/§r"
+[[dependencies.clclfl]]
+    modId="clclfl"
+    mandatory=true
+    versionRange="[1.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.clclfl]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.clclfl]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,6 @@
+{
+	"parent": "clclfl:item/common/light_sword",
+	"textures": {
+		"layer0": "clclfl:item/tools/cobalt_sharp_edge"
+	}
+}

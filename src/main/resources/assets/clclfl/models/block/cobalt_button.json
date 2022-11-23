@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "clclfl:block/cobalt_block_native"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "clclfl:cobalt_block_materials"
+    },
+    "B": {
+      "item": "clclfl:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "clclfl:cobalt_fence",
+    "count": 3
+  }
+}

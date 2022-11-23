@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "clclfl:cobalt_ingot"
+    },
+    "title": "Why cobalt?",
+    "description": "Get your very first cobalt ingot!",
+    "frame": "task",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "clclfl:cobalt_ingot"
+          }
+        ]
+      }
+    }
+  }
+}
